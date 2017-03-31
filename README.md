@@ -1,2 +1,1 @@
-# BeatBox
-简单的音乐播放器
+# BeatBox简单的音乐播放器##### 效果如图![](/readMeNeedPicture/1.jpg)##### 点击之后播放音乐![](/readMeNeedPicture/2.jpg)
